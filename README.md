@@ -1,5 +1,6 @@
 # Travel Trip
 ## Proje açıklaması
+(Proje, benim tarafımdan backend kodlamasıyla geliştirilmiş olup, tasarım **W3Layouts** tarafından sağlanmıştır.)
 Bu proje sadece yazar tarafından yazılan blog içeriklerine sahip bir seyahat blogudur. Kullanıcılar, içeriklere yorum yaparak yazara geri bildirimde bulunabilir ancak içerik yalnızca yazar tarafından yönetilir.
 
 ## 🌐 http://nexttrip.somee.com/Default/Index/
@@ -52,5 +53,3 @@ Bu projede aşağıdaki teknolojiler ve araçlar kullanılmıştır:
 - **Muhammed Mustafa Demirhan**
 - Instagram: [@mami.dmrhn](https://www.instagram.com/mami.dmrhn/)
 - LinkedIn: [Muhammed Mustafa Demirhan](https://www.linkedin.com/in/muhammedmustafademirhan/)
-  
-Proje, benim tarafımdan backend kodlamasıyla geliştirilmiş olup, tasarım **W3Layouts** tarafından sağlanmıştır.
