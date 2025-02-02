@@ -18,15 +18,19 @@ Proje şu anda geçici bir sunucuda barındırılmaktadır ve yalnızca bilgisay
 ## 🖼 Ekran Görüntüleri
 <table>
   <tr>
-    <td><img src="https://your-image-url.com/image1.png" alt="Resim 1" width="300"></td>
-    <td><img src="https://your-image-url.com/image2.png" alt="Resim 2" width="300"></td>
+    <td><img src="images/anasayfa1.jpg" alt="Resim 1" width="300"></td>
+    <td><img src="images/anasayfa2.jpg" alt="Resim 2" width="300"></td>
   </tr>
   <tr>
-    <td><img src="https://your-image-url.com/image1.png" alt="Resim 1" width="300"></td>
-    <td><img src="https://your-image-url.com/image1.png" alt="Resim 1" width="300"></td>
+    <td><img src="images/bloglar.jpg" alt="Resim 1" width="300"></td>
+    <td><img src="images/yorumekrani.jpg" alt="Resim 1" width="300"></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://your-image-url.com/image1.png" alt="Resim 1" width="600"></td>
+    <td><img src="images/iletisim.jpg" alt="Resim 1" width="300"></td>
+    <td><img src="images/girisekrani.jpg" alt="Resim 1" width="300"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/adminpaneli.jpg" alt="Resim 1" width="600"></td>
   </tr>
 </table>
 
