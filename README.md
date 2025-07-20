@@ -3,9 +3,6 @@
 (Proje, benim tarafımdan backend kodlamasıyla geliştirilmiş olup, tasarım **W3Layouts** tarafından sağlanmıştır.)<br>
 Bu proje sadece yazar tarafından yazılan blog içeriklerine sahip bir seyahat blogudur. Kullanıcılar, içeriklere yorum yaparak yazara geri bildirimde bulunabilir ancak içerik yalnızca yazar tarafından yönetilir.
 
-## 🌐 http://nexttrip.somee.com/Default/Index/
-Proje şu anda geçici bir sunucuda barındırılmaktadır ve yalnızca bilgisayar üzerinden erişilebilir. Ücretsiz bir sunucu kullanıldığı için ilerleyen zamanlarda site kapanabilir. Kalıcı bir barındırma çözümüne geçildiğinde link güncellenecektir.
-
 ## 🚀 Proje Özellikleri
 - **Kullanıcı Dostu Arayüz**: Basit ve anlaşılır bir kullanıcı arayüzü ile kolay gezinti sağlanmıştır.
 - **Blog Yazıları**: Kullanıcılar yalnızca yazarı tarafından yazılmış blog yazılarını görüntüleyebilir ve yorum yapabilir.
